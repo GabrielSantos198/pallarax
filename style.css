@@ -59,6 +59,10 @@
     width: 90%;
 }
 
+del{
+    color: green;
+}
+
 
 footer{
     width: 100%;
@@ -69,3 +73,4 @@ footer{
     align-items: center;
     color: #fff;
 }
+
