@@ -29,6 +29,10 @@
     background-position: center;
     background-repeat: no-repeat;
     background-color: #000;
+    /* Barra de progresso */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -58,6 +62,7 @@
 .faixa p{
     width: 90%;
 }
+
 
 del{
     color: green;
