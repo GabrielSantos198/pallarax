@@ -68,6 +68,10 @@ del{
     color: green;
 }
 
+.marquee{
+    font-size: 25px;
+    color: red;
+}
 
 footer{
     width: 100%;
@@ -78,4 +82,5 @@ footer{
     align-items: center;
     color: #fff;
 }
+
 
